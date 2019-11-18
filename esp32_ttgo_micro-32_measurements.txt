@@ -1,0 +1,4 @@
+Castellated holes radius: 0.25mm
+Distance between Castellated hole centers: 1mm
+Distance between Castellated hole centers and back of pad: 1mm
+Width of Castellated hole pad: ~ 0.62mm

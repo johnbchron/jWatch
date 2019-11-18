@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="13.3mm"
+   height="19.200001mm"
+   viewBox="0 0 13.3 19.200001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ESP32-ttgo-micro32-2.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.5223867"
+     inkscape:cx="33.771722"
+     inkscape:cy="34.231196"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Aesthetics"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-277.8)">
+    <rect
+       id="rect3713"
+       width="13.3"
+       height="19.200001"
+       x="7.2883752e-09"
+       y="277.80582"
+       style="stroke-width:0.26458332" />
+    <rect
+       style="fill:#d1c795;fill-opacity:1;stroke-width:0.26458332"
+       id="rect3728"
+       width="10.157752"
+       height="13.455714"
+       x="1.7149452"
+       y="282.29105" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke-width:0.08281178"
+       id="rect4557"
+       width="0.65959442"
+       height="1.6489857"
+       x="2.1107018"
+       y="278.20157" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4559"
+       width="3.6277685"
+       height="1.6490006"
+       x="2.7702963"
+       y="278.20157" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke-width:0.08281178"
+       id="rect4557-2"
+       width="0.65959442"
+       height="1.6489857"
+       x="6.3980651"
+       y="278.20157" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4576"
+       width="2"
+       height="2"
+       x="9.4981585"
+       y="278.20157" />
+    <circle
+       style="fill:#d4aa00;fill-opacity:1;stroke-width:0.39687496"
+       id="path4578"
+       cx="10.483047"
+       cy="279.21249"
+       r="0.89999998" />
+    <circle
+       style="fill:#aa8800;fill-opacity:1;stroke-width:0.35277775"
+       id="path4578-6"
+       cx="10.480949"
+       cy="279.20953"
+       r="0.80000001" />
+    <ellipse
+       style="fill:#ffcc00;fill-opacity:1;stroke-width:0.26458332"
+       id="path4595"
+       cx="10.504495"
+       cy="279.19513"
+       rx="0.12854815"
+       ry="0.12662953" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3827"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,10.952662,273.66233)"><flowRegion
+         id="flowRegion3829"><rect
+           id="rect3831"
+           width="119.58813"
+           height="68.226562"
+           x="-30.970259"
+           y="9.7065067" /></flowRegion><flowPara
+         id="flowPara3833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:OCRA;-inkscape-font-specification:OCRA">TTGO</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.6367519"
+       y="10.032216"
+       id="text3845"><tspan
+         sodipodi:role="line"
+         id="tspan3843"
+         x="2.6367519"
+         y="10.032216"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;font-family:ocra;-inkscape-font-specification:ocra;stroke-width:0.26458332">Micro-32</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Connectors"
+     style="display:inline" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3835"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="scale(0.26458333)"><flowRegion
+       id="flowRegion3837"><rect
+         id="rect3839"
+         width="69.146469"
+         height="46.608704"
+         x="-1.0732268"
+         y="24.11841" /></flowRegion><flowPara
+       id="flowPara3841">microMicro</flowPara></flowRoot></svg>
