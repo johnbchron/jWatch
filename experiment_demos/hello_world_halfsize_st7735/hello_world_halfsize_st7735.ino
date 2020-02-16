@@ -1,7 +1,7 @@
 #include <SPI.h>
 #include "Ucglib.h"
 
-Ucglib_ST7735_18x128x160_HWSPI ucg(/*cd=*/ 7, /*cs=*/ 8, /*reset=*/ 6);
+Ucglib_ST7735_18x128x160_HWSPI ucg(/*dc=*/ 7, /*cs=*/ 8, /*reset=*/ 6);
 String currentTime = "0000";
 
 

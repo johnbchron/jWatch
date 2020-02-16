@@ -1,8 +1,8 @@
 #include <Adafruit_GFX.h>    // Core graphics library
 #include <Adafruit_ST7789.h> // Hardware-specific library for ST7789
 
-#define TFT_RST 6
-#define TFT_DC 7
+#define TFT_RST 2
+#define TFT_DC 3
 #define TFT_BLK 8
 
 Adafruit_ST7789 tft = Adafruit_ST7789(10, TFT_DC, TFT_RST);
